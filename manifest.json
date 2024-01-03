@@ -1,0 +1,8 @@
+{
+    "name": "HungryCompany",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/nihlos/HungryCompany",
+    "description": "The company monster will now kill everyone in its path, not just one employee.",
+    "dependencies": [
+    ]
+}
